@@ -39,7 +39,7 @@ Patient Health Care Monitor is an AI-powered healthcare platform designed to mon
    - **Step 2:** Converting and loading graph data into NetworkX with GPU acceleration  
    - **Step 3:** Persisting the graph in ArangoDB  
    - **Step 4:** Building the agentic application with LangChain & LangGraph  
-   - **Step 5:** Visualizing the data using Plotly 
+   - **Step 5:** Visualizing the data using Matplotlib 
 
 ## 🛠️ Technologies Used
 
