@@ -1,9 +1,9 @@
 ##Read Me
 
-## <span style="color:red">*** Disclaimer ⚠️ </span> 
+## ⚠️ **Disclaimer**  
 
-1. <span style="color:blue">Earlier, we committed our changes in a branch. Now, we have merged them into the **main** branch. Please **note the timestamps** accordingly.</span>  
-2. <span style="color:blue">As the previous YouTube video link was not working, we have **embedded the updated video link** below for reference.</span>  
+1. 🔵 **Earlier, we committed our changes in a branch. Now, we have merged them into the _main_ branch. Please _note the timestamps_ accordingly.**    
+2. 🔵 **As the previous YouTube video link was not working, we have _embedded the updated video link_ below for reference.**  
 ## Vedio Reference
 
 ## Watch the Demo 🎥
