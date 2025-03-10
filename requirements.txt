@@ -1,0 +1,11 @@
+networkx
+matplotlib
+plotly
+json5
+arango
+langchain
+langchain-community
+langchain-groq
+groq
+textwrap
+re
