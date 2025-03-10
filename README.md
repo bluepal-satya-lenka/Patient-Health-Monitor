@@ -52,6 +52,16 @@ Patient Health Care Monitor is an AI-powered healthcare platform designed to mon
 | **Groq AI** | AI model provider for LLM integration |
 | **Matplotlib** | Data visualization |
 
+
+ARCHITECTECTURE FLOW DIAGRAM for Vs COde 
+![image](https://github.com/user-attachments/assets/d00f591d-0885-4e80-b949-17c8a152f522)
+
+
+
+ARCHITECTECTURE FLOW DIAGRAM for Collab
+![image](https://github.com/user-attachments/assets/ce2d63c3-0bf0-437e-b6fb-6163a9c6a1d0)
+
+
 ## 🚀 Workflow Overview
 ```text
 Step 0: Package installation and environment setup
