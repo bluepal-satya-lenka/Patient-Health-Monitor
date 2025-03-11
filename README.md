@@ -93,7 +93,7 @@ Step 0: Package installation and environment setup
           └── Display patient journeys and medical insights
 
 
-## 📋 Prerequisites
+📋 Prerequisites
 To run these notebooks, you'll need:
 
 ✅ Python 3.8+  
@@ -102,10 +102,10 @@ To run these notebooks, you'll need:
 ✅ API keys for Groq AI or other LLM provider  
 
 
-## 🛠️ Installation
+🛠️ Installation
 Run the following commands to set up the environment:
 
-```bash
+
 # Install nx-arangodb
 pip install nx-arangodb
 
