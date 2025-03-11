@@ -4,7 +4,7 @@
 
 1. 🔵 **Earlier, we committed our changes in a branch. Now, we have merged them into the _main_ branch. Please _note the timestamps_ accordingly.**    
 2. 🔵 **As the previous YouTube video link was not working, we have _embedded the updated video link_ below for reference.**  
-## Vedio Reference
+## Video Reference
 
 ## Watch the Demo 🎥
 
